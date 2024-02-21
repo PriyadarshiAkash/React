@@ -12,6 +12,7 @@ return (
       <li href="#">Location</li>
       <li href="#">About</li>
       <li href="#">Contact</li>
+     <li href="#">Contact</li>
     </ul>
     <button>login</button>
 
